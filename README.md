@@ -1,1 +1,1 @@
-Gradient decent
+Gradient descent
